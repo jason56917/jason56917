@@ -4,13 +4,18 @@
 - Enjoy creating projects and solving problems.👆
 
 ## Projects 💻
-| Project | Link | Skills |
-|----------|----------|----------|
-| Spotify-Clone | https://spotify-clone-dusky-ten.vercel.app/ | TypeScript、Next.js |
-
-<!--
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
--->
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Lik</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td style="background-color: yellow;">Spotify-Clone</td>
+    <td style="background-color: lightgreen;">https://spotify-clone-dusky-ten.vercel.app/</td>
+    <td style="background-color: lightblue;">TypeScript、Next.js</td>
+  </tr>
+</table>
 
 <!--
 **jason56917/jason56917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
