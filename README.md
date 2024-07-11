@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- Always learning and challenage
+
 <!--
 **jason56917/jason56917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
