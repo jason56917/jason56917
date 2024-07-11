@@ -1,6 +1,16 @@
 ## Hi there 👋
 
-- Always learning and challenage🤜
+- Always learning and challenage.🤜
+- Enjoy creating projects and solving problems.👆
+
+## Projects 💻
+| Project | Link | Skills |
+|----------|----------|----------|
+| Spotify-Clone | https://spotify-clone-dusky-ten.vercel.app/ | TypeScript、Next.js |
+
+<!--
+| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
+-->
 
 <!--
 **jason56917/jason56917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
