@@ -13,7 +13,7 @@
   <tr>
     <td style="background-color: yellow;">Spotify-Clone</td>
     <td style="background-color: lightgreen;">https://spotify-clone-dusky-ten.vercel.app/</td>
-    <td style="background-color: lightblue;">TypeScript、Next.js</td>
+    <td style="background-color: lightblue;">TypeScript、Next.js、Drizzle Orm、Hono、Tanstack Query、Zod、PostgreSQl</td>
   </tr>
 </table>
 
